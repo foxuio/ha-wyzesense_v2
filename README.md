@@ -2,7 +2,7 @@
 Custom WyzeSense integration for Home Assistant with optimized detection.
 
 
-**Updates**
+# **Updates**
 
 After rewriting the code, Home Assistant now supports Wyzesense with current 2025 updates.
 
