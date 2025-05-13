@@ -60,7 +60,13 @@ In your `configuration.yaml`:
 ```yaml
 wyzesense:
   device: auto
-##This uses automatic detection of your USB dongle (based on vendor ID 1a86:e024).
+## This uses automatic detection of your USB dongle (based on vendor ID 1a86:e024).
+
+## or you can specify in your configuration.yaml. for ex.
+
+binary_sensor:
+  - platform: wyzesense
+    device: /dev/hidraw0  ## <--- here is your USB port Hub has inserted, check on hardware details 
 ```
 ---
 
