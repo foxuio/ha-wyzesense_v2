@@ -1,8 +1,9 @@
 {
-  "name": "WyzeSense V2",
-  "content_in_root": false,
-  "domains": ["binary_sensor"],
-  "country": "US",
-  "homeassistant": "2024.1.0",
-  "render_readme": true
+  "name": "WyzeSense v2",
+  "domain": "wyzesense",
+  "documentation": "https://github.com/foxuio/ha-wyzesense_v2",
+  "codeowners": ["@foxuio"],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": false
 }
