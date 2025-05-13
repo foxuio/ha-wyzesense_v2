@@ -1,9 +1,10 @@
 {
-  "name": "WyzeSense v2",
+  "name": "ha-wyzesense_v2",
+  "content_in_root": false,
   "domain": "wyzesense",
-  "documentation": "https://github.com/foxuio/ha-wyzesense_v2",
-  "codeowners": ["@foxuio"],
-  "requirements": [],
-  "version": "1.0.0",
-  "config_flow": false
+  "zip_release": false,
+  "iot_class": "local_polling",
+  "persistent_directory": "custom_components/wyzesense",
+  "render_readme": true,
+  "filename": "custom_components/wyzesense/manifest.json"
 }
