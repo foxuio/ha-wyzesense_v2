@@ -21,6 +21,8 @@ This is a revived and fully functional version of the original [kevinvincent/ha-
 
 ## 📦 Installation
 
+Manually
+
 1. Copy this repo to your Home Assistant config folder under:
 
 <config>/custom_components/wyzesense/yaml
@@ -28,6 +30,30 @@ This is a revived and fully functional version of the original [kevinvincent/ha-
 2. Reboot Home Assistant.
 
 ---
+
+Option 2:
+🧩 HACS Installation (Custom Repository)
+If you want to install this integration via HACS, follow these steps:
+
+📦 Step-by-step:
+In Home Assistant, go to HACS → Integrations.
+
+Click the three-dot menu (⋮) in the top right.
+
+Select "Custom repositories".
+
+In the Repository URL, enter:
+
+arduino
+Copiar
+Editar
+https://github.com/foxuio/ha-wyzesense_v2
+In Category, select:
+Integration
+
+Click "Add".
+
+Now, search for WyzeSense V2 in HACS and install it.
 
 ## ⚙️ Configuration
 
