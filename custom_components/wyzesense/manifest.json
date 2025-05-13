@@ -1,0 +1,11 @@
+
+{
+  "domain": "wyzesense",
+  "name": "WyzeSense V2",
+  "documentation": "https://github.com/foxuio/ha-wyzesense_v2",
+  "dependencies": [],
+  "codeowners": ["@foxuio"],
+  "requirements": [],
+  "version": "2.0"
+  
+}
