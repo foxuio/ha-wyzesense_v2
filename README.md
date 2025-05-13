@@ -43,7 +43,9 @@ Click the three-dot menu (⋮) in the top right.
 Select "Custom repositories".
 
 In the Repository URL, enter:
+
 https://github.com/foxuio/ha-wyzesense_v2
+
 In Category, select:
 Integration
 
