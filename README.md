@@ -97,9 +97,8 @@ If you manually remove a sensor from .storage, make sure to clear it from entity
 
 If you found this integration useful and want to say thanks...
 
-<a href="https://www.buymeacoffee.com/foxuio" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20beer-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Beer">
-</a>
+[![Buy Me a Beer](https://img.shields.io/badge/Buy%20me%20a%20beer-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/foxuio)
+
 
 Or just star ⭐ the repo and share it with others who still use WyzeSense!
 
