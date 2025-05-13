@@ -60,9 +60,8 @@ In your `configuration.yaml`:
 ```yaml
 binary_sensor:
   - platform: wyzesense
-    device: auto 
-// or 
-
+    device: auto    ## auto is for autodetect usb port
+## or 
 binary_sensor:
   - platform: wyzesense
     device: /dev/hidraw0  ## <--- here is your USB port Hub has inserted, check on hardware details 
